@@ -1,0 +1,14 @@
+#container-consultas{
+	border-style: groove;
+	background-image: url("../images/mailbox.png");
+	width: 50%;
+	height: 480px;
+}
+
+#container-configuraciones{
+	border-style: groove;
+	background-image: url("../images/configuraciones.png");
+	width: 50%;
+	height: 480px;
+	
+}
